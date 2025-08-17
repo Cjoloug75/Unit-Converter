@@ -4,6 +4,7 @@
 1 kilogram = 2.204 pound
 
 Hello, my name is Connor
+Charles is gay
 */
 
 let inputEl = document.getElementById("input-el")
